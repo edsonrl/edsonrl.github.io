@@ -5,13 +5,13 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
-      <li class="nav-item">
         {% for navigation in site.data.navigation %}
-        <a class="nav-link" href="https://erlfilho.github.io/{{ navigation.link }}">
+          <li class="nav-item">
+            <a class="nav-link" href="https://erlfilho.github.io/{{ navigation.link }}">
             {{ navigation.name }}
-        </a>
+            </a>
+          </li>
         {% endfor %}
-      </li>
     </ul>
   </div>
 </nav>
