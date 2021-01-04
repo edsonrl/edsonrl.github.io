@@ -31,25 +31,16 @@ My research interest is on data analytics and data-intensive systems (Google Sch
 </ul>
 
 
-
 ## Selected Publications.
 
-- Efficient Detection of Data Dependency Violations
-  Eduardo H. M. Pena, Edson Ramiro Lucas Filho, Eduardo Cunha de Almeida, Felix Naumann
-  International Conference on Information and Knowledge Management, CIKM 2020
-- Don't Tune Twice: Reusing Tuning Setups for SQL-on-Hadoop Queries
-  (Best Paper Award with student as first author).
-  ER Lucas Filho, EC de Almeida, S Scherzinger
-  International Conference on Conceptual Modeling, ER 2019
-- DejaVu: Recycling Tuning Setups in Hive Query Compilation (Demo)
-  ER Lucas Filho, EC de Almeida, S Scherzinger
-  International Conference on Conceptual Modeling, ER 2019
-- A Non-Uniform Tuning Method for SQL-on-Hadoop Systems
-  ER Lucas Filho, RS de Melo, EC de Almeida
-  Alberto Mendelzon Workshop on Foundations of Data Management, AMW 2019
-- The Uniform Tuning Problem on SQL-On-Hadoop Query Processing
-  Edson Ramiro Lucas Filho
-  SIGMOD Student Research Competition, SIGMOD 2017
-- “Overloaded!”—A Model-based Approach to Database Stress Testing
-  JA Meira, EC de Almeida, D Kim, ER Lucas Filho, Y Le Traon
-  Database and Expert Systems Applications. DEXA 2016
+<ul>
+{% for publication in site.data.publications %}
+  <ul>
+    <li>
+      {{ publication.title }}. {{ publication.authors }}. {{ publication.venue }}
+    </li>
+  </ul>
+{% endfor %}
+</ul>
+
+

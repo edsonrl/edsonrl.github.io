@@ -1,0 +1,19 @@
+- title: Efficient Detection of Data Dependency Violations
+  authors: Eduardo H. M. Pena, Edson Ramiro Lucas Filho, Eduardo Cunha de Almeida, Felix Naumann
+  venue: International Conference on Information and Knowledge Management, CIKM 2020
+- title: Don't Tune Twice: Reusing Tuning Setups for SQL-on-Hadoop Queries
+  award: (Best Paper Award with student as first author).
+  authors: ER Lucas Filho, EC de Almeida, S Scherzinger
+  venue: International Conference on Conceptual Modeling, ER 2019
+- DejaVu: Recycling Tuning Setups in Hive Query Compilation (Demo)
+  authors: ER Lucas Filho, EC de Almeida, S Scherzinger
+  venue: International Conference on Conceptual Modeling, ER 2019
+- title: A Non-Uniform Tuning Method for SQL-on-Hadoop Systems
+  authors: ER Lucas Filho, RS de Melo, EC de Almeida
+  venue: Alberto Mendelzon Workshop on Foundations of Data Management, AMW 2019
+- title: The Uniform Tuning Problem on SQL-On-Hadoop Query Processing
+  authors: Edson Ramiro Lucas Filho
+  venue: SIGMOD Student Research Competition, SIGMOD 2017
+- title: “Overloaded!”—A Model-based Approach to Database Stress Testing
+  authors: JA Meira, EC de Almeida, D Kim, ER Lucas Filho, Y Le Traon
+  venue: Database and Expert Systems Applications. DEXA 2016
