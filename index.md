@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<nav class="main-nav">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+  </ul>
+</nav>
+
 I am currently a postdoc in the "Scalable Database Systems" group at University of Passau, led by prof. Stefanie Scherzinger.
 
 I received my PhD (2016-2020) from the University of Paraná, Brazil, under the supervision of prof. Eduardo Cunha de Almeida. Before that, I worked as a software engineer (2014-2016) at the SnT, University of Luxembourg, under the supervision of professors Dr. Yves Le Traon and Dr. Eduardo Cunha de Almeida.
