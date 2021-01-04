@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: Publications
-  link: /publications.html
+  link: /publications.md
 - name: Blog
   link: /blog.html
