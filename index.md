@@ -23,9 +23,7 @@ My research interest is on data analytics and data-intensive systems (Google Sch
 <ul>
 {% for service in site.data.services %}
   <li>
-    <p>
       {{ service.type }}. {{ service.event }}
-    </p>
   </li>
 {% endfor %}
 </ul>
