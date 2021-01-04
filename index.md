@@ -2,122 +2,41 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Short Bio.
 
-[Link to another page](./another-page.html).
+I am currently a postdoc in the "Scalable Database Systems" group at University of Passau, led by prof. Stefanie Scherzinger.
 
-There should be whitespace between paragraphs.
+I received my PhD (2016-2020) from the University of Paraná, Brazil, under the supervision of prof. Eduardo Cunha de Almeida. Before that, I worked as a software engineer (2014-2016) at the SnT, University of Luxembourg, under the supervision of professors Dr. Yves Le Traon and Dr. Eduardo Cunha de Almeida.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My research interest is on data analytics and data-intensive systems (Google Scholar, Google Patents, DBLP, and Lattes).
 
-# Header 1
+## Services
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- External Reviewer: International Conference on Cognitive Machine Intelligence, 2021.
+- External Reviewer: International Conference on Extending Database Technology, 2021.
+- External Reviewer: Expert Systems with Applications, 2020.
+- External Reviewer: Computer Science and Information Systems journal, 2016.
+- External Reviewer: Escola Regional de Banco de Dados, 2016.
+- Student Volunteer: VLDB 2018.
 
-## Header 2
+## Selected Publications.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- Efficient Detection of Data Dependency Violations
+  Eduardo H. M. Pena, Edson Ramiro Lucas Filho, Eduardo Cunha de Almeida, Felix Naumann
+  International Conference on Information and Knowledge Management, CIKM 2020
+- Don't Tune Twice: Reusing Tuning Setups for SQL-on-Hadoop Queries
+  (Best Paper Award with student as first author).
+  ER Lucas Filho, EC de Almeida, S Scherzinger
+  International Conference on Conceptual Modeling, ER 2019
+- DejaVu: Recycling Tuning Setups in Hive Query Compilation (Demo)
+  ER Lucas Filho, EC de Almeida, S Scherzinger
+  International Conference on Conceptual Modeling, ER 2019
+- A Non-Uniform Tuning Method for SQL-on-Hadoop Systems
+  ER Lucas Filho, RS de Melo, EC de Almeida
+  Alberto Mendelzon Workshop on Foundations of Data Management, AMW 2019
+- The Uniform Tuning Problem on SQL-On-Hadoop Query Processing
+  Edson Ramiro Lucas Filho
+  SIGMOD Student Research Competition, SIGMOD 2017
+- “Overloaded!”—A Model-based Approach to Database Stress Testing
+  JA Meira, EC de Almeida, D Kim, ER Lucas Filho, Y Le Traon
+  Database and Expert Systems Applications. DEXA 2016
