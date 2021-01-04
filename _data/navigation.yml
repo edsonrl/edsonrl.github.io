@@ -1,8 +1,6 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
 - name: Publications
-  link: /publications.md
+  link: /publications.html
 - name: Blog
   link: /blog.html
