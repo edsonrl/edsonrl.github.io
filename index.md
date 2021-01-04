@@ -18,25 +18,3 @@ I received my PhD (2016-2020) from the University of Paraná, Brazil, under the 
 
 My research interest is on data analytics and data-intensive systems (Google Scholar, Google Patents, DBLP, and Lattes).
 
-## Services
-
-<ul>
-{% for service in site.data.services %}
-  <li>
-      {{ service.type }}. {{ service.event }}
-  </li>
-{% endfor %}
-</ul>
-
-
-## Selected Publications.
-
-<ul>
-{% for publication in site.data.publications %}
-    <li>
-      <a href="{{ publication.link }}"> {{ publication.name }} </a>. {{ publication.authors }}. {{ publication.venue }}.
-    </li>
-{% endfor %}
-</ul>
-
-
