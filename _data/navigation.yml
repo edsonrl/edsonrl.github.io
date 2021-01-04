@@ -3,6 +3,6 @@
 - name: About
   link: /about.html
 - name: Publications
-  link: /publications.html
+  link: /publications.md
 - name: Blog
   link: /blog.html
