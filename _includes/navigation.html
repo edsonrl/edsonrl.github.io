@@ -1,6 +1,9 @@
+<ul>
 {% for navigation in site.data.navigation %}
-| <a class="nav-link" href="https://erlfilho.github.io/{{ navigation.link }}">
-{{ navigation.name }}
-</a>
+<li>
+<a class="nav-link" href="https://erlfilho.github.io/{{ navigation.link }}"> {{ navigation.name }} </a>
+</li>
 {% endfor %}
+</ul>
+
 <br>
