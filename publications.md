@@ -16,7 +16,7 @@ title: Publications
 </ul>
 
 
-## Selected Publications.
+## Selected Publications
 
 <ul>
 {% for publication in site.data.publications %}
