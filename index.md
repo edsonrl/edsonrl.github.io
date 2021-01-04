@@ -33,11 +33,9 @@ My research interest is on data analytics and data-intensive systems (Google Sch
 
 <ul>
 {% for publication in site.data.publications %}
-  <ul>
     <li>
-      <a href="{{ publication.link }}">{{ publication.title }}</a>. {{ publication.authors }}. {{ publication.venue }}
+      <a href="{{ publication.link }}"> {{ publication.title }} </a>. {{ publication.authors }}. {{ publication.venue }}
     </li>
-  </ul>
 {% endfor %}
 </ul>
 
