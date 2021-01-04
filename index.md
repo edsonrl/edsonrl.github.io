@@ -20,12 +20,17 @@ My research interest is on data analytics and data-intensive systems (Google Sch
 
 ## Services
 
-- External Reviewer: International Conference on Cognitive Machine Intelligence, 2021.
-- External Reviewer: International Conference on Extending Database Technology, 2021.
-- External Reviewer: Expert Systems with Applications, 2020.
-- External Reviewer: Computer Science and Information Systems journal, 2016.
-- External Reviewer: Escola Regional de Banco de Dados, 2016.
-- Student Volunteer: VLDB 2018.
+<ul>
+{% for service in site.data.services %}
+  <li>
+    <p>
+      {{ service.type }}. {{ service.event }}
+    </p>
+  </li>
+{% endfor %}
+</ul>
+
+
 
 ## Selected Publications.
 
