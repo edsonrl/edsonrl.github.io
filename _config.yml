@@ -1,6 +1,14 @@
 title: Edson Lucas
 logo: /assets/img/me.png
 description: Edson Ramiro Lucas Filho.
-show_downloads: false
-google_analytics: UA-55680075-1
+email: edson.lucas@uni-passau.de
 theme: jekyll-theme-minimal
+show_downloads: false
+twitter_username: ramiro_lucasfh
+github_username: erlfilho
+google_analytics: UA-55680075-1
+
+plugins:
+  - jekyll-feed
+
+
