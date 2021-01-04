@@ -2,12 +2,15 @@
 layout: default
 ---
 
-<nav class="main-nav">
-  <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="/blog.html">Blog</a></li>
-  </ul>
-</nav>
+<ul>
+{% for navigation in site.data.navigation %}
+  <li>
+    <a href="https://erlfilho.github.io/{{ navigation.link }}">
+      {{ navigation.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
 
 I am currently a postdoc in the "Scalable Database Systems" group at University of Passau, led by prof. Stefanie Scherzinger.
 
