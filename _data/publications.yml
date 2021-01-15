@@ -1,3 +1,11 @@
+- name: "Investigating Automatic Parameter Tuning for SQL-on-Hadoop Systems"
+  authors: Edson Ramiro Lucas Filho, Eduardo Cunha de Almeida, Stefanie Scherzinger, and Herodotos Herodotou
+  venue: Accepted for publication at Big Data Research journal 2021.
+  link: "#"
+- name: "Silentium! Run-Analyse-Eradicate the Noise out of the DB/OS Stack"
+  authors: Wolfgang Mauerer, Ralf Ramsauer, Edson Lucas, Daniel Lohmann and Stefanie Scherzinger
+  venue: Accepted for publication at BTW 2021.
+  link: "#"
 - name: Efficient Detection of Data Dependency Violations
   authors: Eduardo H. M. Pena, Edson Ramiro Lucas Filho, Eduardo Cunha de Almeida, Felix Naumann
   venue: International Conference on Information and Knowledge Management, CIKM 2020
