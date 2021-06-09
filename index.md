@@ -6,8 +6,8 @@ layout: default
 
 [![Foo](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blu)](https://www.linkedin.com/in/edsonramirolucasfilho/)
 [![Bar](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&labelColor=blu)](https://twitter.com/ramiro_lucasfh)
-[![Bar](https://img.shields.io/badge/GitHub-grey?style=flat&logo=GitHub&labelColor=grey)](https://github.com/erlfilho)
-![](https://visitor-badge.laobi.icu/badge?page_id="https://erlfilho.github.io/")
+[![Bar](https://img.shields.io/badge/GitHub-grey?style=flat&logo=GitHub&labelColor=grey)](https://github.com/ramirolucas)
+![](https://visitor-badge.laobi.icu/badge?page_id="https://ramirolucas.github.io/")
 
 {% include about.html %}
 
